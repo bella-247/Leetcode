@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy
 **Tags:** Tree, Depth-First Search, Breadth-First Search, Binary Tree
-**URL:** https://leetcode.com/problems/symmetric-tree/description/
+**URL:** https://leetcode.com/problems/symmetric-tree/
 
 ## Problem
 
